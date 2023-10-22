@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "CUDA_PATH": "/root/.cache/cuda_118",
+    }
+}

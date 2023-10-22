@@ -1,1 +1,8 @@
 .vscode/*
+
+build/
+bin/
+CMakeFiles/
+*.dir
+.cache/
+*.o
